@@ -19,6 +19,10 @@ Forked from: https://github.com/Rombecchi/version-compare
 - a **positive** integer if v1 > v2
 - **NaN** if either version string is in the wrong format
  
+ ## UPDATE 1.2 (19-06-2019)
+ - [x] allowed negative version strings
+ - [x] exported versionCompare function
+ 
  
  ## UPDATE 1.1 (10-04-2018)
 - [x] added defaults to lexicographical (false) and zeroExtend (true)
